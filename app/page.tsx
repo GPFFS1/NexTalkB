@@ -1,4 +1,3 @@
-import Test from "@/components/Test";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
@@ -60,7 +59,7 @@ const HomePage = () => {
           </div>
           <button className="border rounded-3xl w-[299px] h-[50px] bg-white text-black text-xl font-normal tracking-wide">Log In</button>
           <button>
-            
+
           </button>
         </div>
       </div>
